@@ -1,0 +1,33 @@
+Start testing: May 21 17:42 中国标准时间
+----------------------------------------------------------
+1/2 Testing: tst_YuvParser
+1/2 Test: tst_YuvParser
+Command: "D:/My_Demo/project4/build-static/tst_YuvParser.exe"
+Directory: D:/My_Demo/project4/build-static
+"tst_YuvParser" start time: May 21 17:42 中国标准时间
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.44 sec
+----------------------------------------------------------
+Test Passed.
+"tst_YuvParser" end time: May 21 17:42 中国标准时间
+"tst_YuvParser" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: tst_YuvToRgbConverter
+2/2 Test: tst_YuvToRgbConverter
+Command: "D:/My_Demo/project4/build-static/tst_YuvToRgbConverter.exe"
+Directory: D:/My_Demo/project4/build-static
+"tst_YuvToRgbConverter" start time: May 21 17:42 中国标准时间
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.15 sec
+----------------------------------------------------------
+Test Passed.
+"tst_YuvToRgbConverter" end time: May 21 17:42 中国标准时间
+"tst_YuvToRgbConverter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 21 17:42 中国标准时间

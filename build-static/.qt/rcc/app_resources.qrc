@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="res/icon.png">D:/My_Demo/project4/res/icon.png</file>
+  </qresource>
+</RCC>
+
